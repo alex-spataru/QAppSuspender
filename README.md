@@ -1,8 +1,8 @@
+# QAppKiller
+
 <a href="#">
     <img width="156px" src="doc/mofo.png" align="right" />
 </a>
-
-# QAppKiller
 
 QAppKiller allows your app to know if it should reduce operations and/or inhibit the end user to use your application.
 
